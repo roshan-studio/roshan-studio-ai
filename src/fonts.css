@@ -1,0 +1,43 @@
+﻿@font-face { font-family: 'Amira Typo'; src: url('/fonts/Amira Typo.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'CEF Fonts Arabic-Solid'; src: url('/fonts/CEF Fonts Arabic-Solid.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'CEFFontsArabic-Regular'; src: url('/fonts/CEFFontsArabic-Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'DecoType Naskh'; src: url('/fonts/DecoType Naskh.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'DecoType Thuluth'; src: url('/fonts/DecoType Thuluth.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'Dima-Font-2'; src: url('/fonts/Dima-Font-2.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'eKalemDuz-Regular'; src: url('/fonts/eKalemDuz-Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'eKalemTezyinat-Regular'; src: url('/fonts/eKalemTezyinat-Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'GnSabaNextDemo-Black'; src: url('/fonts/GnSabaNextDemo-Black.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'GnSabaNextDemo-Bold'; src: url('/fonts/GnSabaNextDemo-Bold.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'GnSabaNextDemo-ExtraBold'; src: url('/fonts/GnSabaNextDemo-ExtraBold.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'GnSabaNextDemo-Light'; src: url('/fonts/GnSabaNextDemo-Light.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'GnSabaNextDemo-Medium'; src: url('/fonts/GnSabaNextDemo-Medium.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'GnSabaNextDemo-Regular'; src: url('/fonts/GnSabaNextDemo-Regular.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'GnSabaNextDemo-SemiBold'; src: url('/fonts/GnSabaNextDemo-SemiBold.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'IranNastaliq-v304-Regular'; src: url('/fonts/IranNastaliq-v304-Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'KAAlNaskhPro-Regular'; src: url('/fonts/KAAlNaskhPro-Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'Kinafah-Regular'; src: url('/fonts/Kinafah-Regular.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'KOMission-Black'; src: url('/fonts/KOMission-Black.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Liftaswashv3-Regular'; src: url('/fonts/Liftaswashv3-Regular.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Matoot-ArabicFont-Regular'; src: url('/fonts/Matoot-ArabicFont-Regular.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Najwa Arabic mob'; src: url('/fonts/Najwa Arabic mob.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'Najwa_Arabic_Regular'; src: url('/fonts/Najwa_Arabic_Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'SetabrDisplay-Regular'; src: url('/fonts/SetabrDisplay-Regular.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'Tajarib_Typeface_Black'; src: url('/fonts/Tajarib_Typeface_Black.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Tajarib_Typeface_Bold'; src: url('/fonts/Tajarib_Typeface_Bold.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Tajarib_Typeface_Light'; src: url('/fonts/Tajarib_Typeface_Light.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Tajarib_Typeface_Medium'; src: url('/fonts/Tajarib_Typeface_Medium.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Tajarib_Typeface_Regular'; src: url('/fonts/Tajarib_Typeface_Regular.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'Wisam-grib'; src: url('/fonts/Wisam-grib.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'YR-Grand-Theft-AR-GTA'; src: url('/fonts/YR-Grand-Theft-AR-GTA.otf') format('opentype'); font-display: swap; }
+@font-face { font-family: 'ظظذ╪«╪╖ ╪ص╪▒┘ê┘ ╪╣╪▒╪ذ┘è╪ر-┘à╪▒┘â╪ذ╪رظر 2'; src: url('/fonts/ظظذ╪«╪╖ ╪ص╪▒┘ê┘ ╪╣╪▒╪ذ┘è╪ر-┘à╪▒┘â╪ذ╪رظر 2.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'ظظذ╪«╪╖ ╪ص╪▒┘ê┘ ╪╣╪▒╪ذ┘è╪ر-┘à╪▒┘â╪ذ╪رظر'; src: url('/fonts/ظظذ╪«╪╖ ╪ص╪▒┘ê┘ ╪╣╪▒╪ذ┘è╪ر-┘à╪▒┘â╪ذ╪رظر.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'ظظذ╪د┘¤┘è┘é┘ê┘╪د╪ز ╪د┘┘à┘ê┘é╪╣+╪د┘╪ز╪د╪▒┘è╪«ظر'; src: url('/fonts/ظظذ╪د┘¤┘è┘é┘ê┘╪د╪ز ╪د┘┘à┘ê┘é╪╣+╪د┘╪ز╪د╪▒┘è╪«ظر.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'ظظذ╪╣┘┘è ┘à╪┤╪▒┘ ┘╪│╪«ظر'; src: url('/fonts/ظظذ╪╣┘┘è ┘à╪┤╪▒┘ ┘╪│╪«ظر.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: 'ظظذ╪╣┘┘è ┘à╪┤╪▒┘ ╪د┘╪س┘╪س ظر'; src: url('/fonts/ظظذ╪╣┘┘è ┘à╪┤╪▒┘ ╪د┘╪س┘╪س ظر.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: '┘┘ê╪▓┘è┘ç 1'; src: url('/fonts/┘┘ê╪▓┘è┘ç 1.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: '┘┘ê╪▓┘è┘ç 2'; src: url('/fonts/┘┘ê╪▓┘è┘ç 2.ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: '┘┘ê╪▓┘è┘ç 3 '; src: url('/fonts/┘┘ê╪▓┘è┘ç 3 .ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: '┘à╪د ╪د╪╣╪▒┘ ╪د╪│┘à┘ç '; src: url('/fonts/┘à╪د ╪د╪╣╪▒┘ ╪د╪│┘à┘ç .ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: '╪«╪د┘╪» ┘è╪»┘ê┘è '; src: url('/fonts/╪«╪د┘╪» ┘è╪»┘ê┘è .ttf') format('truetype'); font-display: swap; }
+@font-face { font-family: '╪»┘è╪ش╪ز╪د┘ '; src: url('/fonts/╪»┘è╪ش╪ز╪د┘ .otf') format('opentype'); font-display: swap; }
+@font-face { font-family: '╪│╪▒╪د╪ش'; src: url('/fonts/╪│╪▒╪د╪ش.otf') format('opentype'); font-display: swap; }
